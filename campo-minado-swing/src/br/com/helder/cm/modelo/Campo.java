@@ -8,13 +8,12 @@ public class Campo {
 	private final int linha;
 	private final int coluna;
 
-	private boolean aberto = false; // default false
+	private boolean aberto = false;
 	private boolean minado = false;
 	private boolean marcado = false;
 
 	private List<Campo> vizinhos = new ArrayList<>();
 	private List<CampoObservador> observadores = new ArrayList<>();
-//	private List<BiConsumer<Campo, CampoEvento>> observadores2 = new ArrayList<>(); // mesma coisa da de cima mas nativa do Java
 
 	Campo(int linha, int coluna) {
 		this.linha = linha;
