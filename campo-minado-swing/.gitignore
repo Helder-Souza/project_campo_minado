@@ -2,3 +2,6 @@
 bin/
 .classpath
 .project
+.idea/
+out/
+project_campo_minado.iml
