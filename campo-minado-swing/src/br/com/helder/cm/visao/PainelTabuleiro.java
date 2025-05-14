@@ -13,7 +13,6 @@ import javax.swing.SwingUtilities;
 
 import br.com.helder.cm.modelo.Tabuleiro;
 
-@SuppressWarnings("serial")
 public class PainelTabuleiro extends JPanel {
 
 	public PainelTabuleiro(Tabuleiro tabuleiro) {

@@ -4,7 +4,6 @@ import javax.swing.JFrame;
 
 import br.com.helder.cm.modelo.Tabuleiro;
 
-@SuppressWarnings("serial")
 public class TelaPrincipal extends JFrame {
 
 	public TelaPrincipal() {
@@ -13,7 +12,7 @@ public class TelaPrincipal extends JFrame {
 		
 		setTitle("Campo Minado");
 		setSize(677, 440); // setSize(690, 438)
-		setLocationRelativeTo(null);
+		setLocationRelativeTo(this);
 		setDefaultCloseOperation(DISPOSE_ON_CLOSE);
 		setVisible(true);
 	}
