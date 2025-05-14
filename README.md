@@ -21,3 +21,6 @@ Com as dicas fornecidas pelos números, você pode liberar outras células.
 ![image](https://github.com/user-attachments/assets/11474c4e-6ca6-4204-8520-3db20e827e5a)
 
 ![image](https://github.com/user-attachments/assets/c7afb6ff-b166-4bcd-affd-e08a520b62ac)
+
+## ✍️ Autor
+### Helder Souza - [@heldersouza](https://github.com/Helder-Souza)
