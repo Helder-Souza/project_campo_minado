@@ -2,8 +2,6 @@
 
 ## ![Campo-minado.png](campo-minado-swing/src/br/com/helder/cm/visao/icones/campo-minado.png) Como jogar
 
----
-
 O objetivo do jogo é descobrir todas as células vazias sem detonar as minas.
 
 Para liberar uma célula, clique com o botão esquerdo do mouse.
@@ -15,8 +13,6 @@ O número colorido exibido nas células clicadas indica o número de minas próx
 Com as dicas fornecidas pelos números, você pode liberar outras células.
 
 ## Exemplo de um jogo
-
-___
 
 ![image](https://github.com/user-attachments/assets/3247c1b4-5a51-4144-a0ad-bf7f876b7bc8)
 
